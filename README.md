@@ -1,1 +1,4 @@
-# ville03-ot-harjoitustyo
+# Ohjelmistotekniikka, harjoitustyö
+ajattelin tehdä shakkipelin
+
+## Dokumentaatio
